@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Christian Andrade
 
-<!--
-**christiandrades/christiandrades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software e transição de carreira para Tech  
+💡 Membro do GitHub Student Developer Pack (2025–2027)  
+🚀 Acesso a ferramentas como GitHub Copilot Pro, MongoDB, Replit, Educative.io, Canva Pro  
+📚 Atualmente estudando Full Stack Python e Back-end Java na EBAC  
+🌐 Veja mais em: [linkedin.com/in/christiandrades](https://linkedin.com/in/christiandrades)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges legais para destacar -->
+![GitHub Student](https://img.shields.io/badge/GitHub%20Student%20Pack-Verified-blue)
+![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
+![Java](https://img.shields.io/badge/Code-Java-red?logo=java)
